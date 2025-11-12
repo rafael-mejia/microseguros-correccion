@@ -80,9 +80,9 @@ color: white;
     margin-bottom: 25px;
     text-align: center;
 }
-#inicio .contenido .introduccion h2 span{
+#inicio .contenido .introduccion h2 span {
     font-size: 25px;
-    color: whitesmoke;
+    color: white;
 }
 #inicio .contenido .introduccion .descripcion{
     max-width: 700px;
@@ -109,27 +109,27 @@ color: white;
     color: #fff;
     display: none;
 }
-#sobremi{
+#nosotros {
     max-width: 1100px;
     margin: auto;
     padding: 100px 15px;
     color: #111135;
     display: flex;
 }
-#sobremi .contenedor-foto{
+#nosotros .contenedor-foto {
     max-width: 400px;
     margin-right: 80px;
 }
-#sobremi .contenedor-foto img{
+#nosotros .contenedor-foto img {
     padding: 20px;
     width: 100%;
     border-radius: 20px;
     background-color: #f3f3f3;
 }
-#sobremi .sobremi{
+#nosotros .nosotros {
     margin: 0 40px;
 }
-#sobremi .sobremi .titulo-seccion{
+#nosotros .nosotros .titulo-seccion {
     font-size: 22px;
     text-transform: uppercase;
     color: #111135;
@@ -137,29 +137,29 @@ color: white;
     text-decoration-color: #d3d3d3;
     text-decoration-thickness: 5px;
 }
-#sobremi .sobremi h2 {
+#nosotros .nosotros h2 {
     font-size: 34px;
     font-weight: bold;
     margin: 20px 0;
     letter-spacing: 2px;
 }
-#sobremi .sobremi h2 span {
+#nosotros .nosotros h2 span {
     color: #a316a8;
 }
-#sobremi .sobremi h3{
+#nosotros .nosotros h3{
     font-size: 18px;
     font-weight: 500;
     text-transform: uppercase;
     margin-bottom: 20px;
     letter-spacing: 1px;
 }
-#sobremi .sobremi p {
+#nosotros .nosotros p {
     font-size: 14px;
     line-height: 25px;
     color: #565656;
     margin-bottom: 12px;
 }
-#sobremi .sobremi a {
+#nosotros .nosotros a {
     display: inline-block;
     text-decoration: none;
     color: #000;
@@ -169,11 +169,11 @@ color: white;
     margin-top: 30px;
     transition: 0.5s;
 }
-#sobremi .sobremi a:hover {
+#nosotros .nosotros a:hover {
     background-color: blue;
     color: #fff;
 }
-/*
+
 #servicios {
     padding: 100px 15px;
     text-align: center;
@@ -233,6 +233,7 @@ color: white;
     font-size: 14px; 
     line-height: 22px;
 }
+/*
 .contenedor-skills {
     background: linear-gradient(#e31ca8, rgba(33,16,16,0.8));
     background-attachment: fixed;
